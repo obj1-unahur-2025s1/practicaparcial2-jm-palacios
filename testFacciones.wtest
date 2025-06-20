@@ -1,0 +1,8 @@
+import facciones.*
+
+describe "Test de Facciones" {
+
+  test " " {
+  }
+
+}
